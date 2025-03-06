@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_MealPlanner/static/css/main.2e23fd77.css",
-    "main.js": "/React_MealPlanner/static/js/main.125d58e5.js",
+    "main.js": "/React_MealPlanner/static/js/main.8bf9f600.js",
     "static/media/team-4-470x470.png": "/React_MealPlanner/static/media/team-4-470x470.4ef82ef45a9598d24c4c.png",
     "static/media/team-2-800x800.jpg": "/React_MealPlanner/static/media/team-2-800x800.3e08ef145920c93bbe32.jpg",
     "static/media/documentation.png": "/React_MealPlanner/static/media/documentation.014ebef5373d22e36244.png",
@@ -26,10 +26,10 @@
     "static/media/github.svg": "/React_MealPlanner/static/media/github.f7165d3e2844ef758a22c6829f494e71.svg",
     "index.html": "/React_MealPlanner/index.html",
     "main.2e23fd77.css.map": "/React_MealPlanner/static/css/main.2e23fd77.css.map",
-    "main.125d58e5.js.map": "/React_MealPlanner/static/js/main.125d58e5.js.map"
+    "main.8bf9f600.js.map": "/React_MealPlanner/static/js/main.8bf9f600.js.map"
   },
   "entrypoints": [
     "static/css/main.2e23fd77.css",
-    "static/js/main.125d58e5.js"
+    "static/js/main.8bf9f600.js"
   ]
 }
