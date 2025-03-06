@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React_MealPlanner/static/css/main.2e23fd77.css",
+    "main.js": "/React_MealPlanner/static/js/main.125d58e5.js",
+    "static/media/team-4-470x470.png": "/React_MealPlanner/static/media/team-4-470x470.4ef82ef45a9598d24c4c.png",
+    "static/media/team-2-800x800.jpg": "/React_MealPlanner/static/media/team-2-800x800.3e08ef145920c93bbe32.jpg",
+    "static/media/documentation.png": "/React_MealPlanner/static/media/documentation.014ebef5373d22e36244.png",
+    "static/media/hooray.png": "/React_MealPlanner/static/media/hooray.a4278af062303c125696.png",
+    "static/media/component-profile-card.png": "/React_MealPlanner/static/media/component-profile-card.52a3ee76a70356d2e910.png",
+    "static/media/team-1-800x800.jpg": "/React_MealPlanner/static/media/team-1-800x800.fa5a7ac2c81a43925586.jpg",
+    "static/media/team-3-800x800.jpg": "/React_MealPlanner/static/media/team-3-800x800.19201574ed51f77138a7.jpg",
+    "static/media/landing.jpg": "/React_MealPlanner/static/media/landing.8150f1b0f50babf23b18.jpg",
+    "static/media/profile.jpg": "/React_MealPlanner/static/media/profile.c62f8a5b46b0d1826ede.jpg",
+    "static/media/register_bg_2.png": "/React_MealPlanner/static/media/register_bg_2.4f2cb0ac523768c8c77b.png",
+    "static/media/login.jpg": "/React_MealPlanner/static/media/login.9c1ecd37bdf6110890b8.jpg",
+    "static/media/component-info-2.png": "/React_MealPlanner/static/media/component-info-2.5212a3a6a4cdd7663af1.png",
+    "static/media/component-info-card.png": "/React_MealPlanner/static/media/component-info-card.d19a4464d2cb70bb8050.png",
+    "static/media/react.jpg": "/React_MealPlanner/static/media/react.0e8c90660cd0ac1c3e75.jpg",
+    "static/media/angular.jpg": "/React_MealPlanner/static/media/angular.b50456665f80ad7ac7de.jpg",
+    "static/media/sketch.jpg": "/React_MealPlanner/static/media/sketch.a6af780afb0dc6910131.jpg",
+    "static/media/vue.jpg": "/React_MealPlanner/static/media/vue.43bd93a8a614b73badd2.jpg",
+    "static/media/bootstrap.jpg": "/React_MealPlanner/static/media/bootstrap.bd712487b8d6b192ca16.jpg",
+    "static/media/boy_with_toast.jpeg": "/React_MealPlanner/static/media/boy_with_toast.a3702f4855b182b1f3c8.jpeg",
+    "static/media/component-menu.png": "/React_MealPlanner/static/media/component-menu.418bd9495e75d1cb2461.png",
+    "static/media/google.svg": "/React_MealPlanner/static/media/google.952443d790ba00a03a5e2b10397d3acd.svg",
+    "static/media/github.svg": "/React_MealPlanner/static/media/github.f7165d3e2844ef758a22c6829f494e71.svg",
+    "index.html": "/React_MealPlanner/index.html",
+    "main.2e23fd77.css.map": "/React_MealPlanner/static/css/main.2e23fd77.css.map",
+    "main.125d58e5.js.map": "/React_MealPlanner/static/js/main.125d58e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e23fd77.css",
+    "static/js/main.125d58e5.js"
+  ]
+}
